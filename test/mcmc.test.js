@@ -1,5 +1,5 @@
 const assert = require('assert');
-const mcmc = require('../index.js');
+const mcmc = require('../lib/index.js');
 const jsnx = require('jsnetworkx');
 
 describe('MCMC', () => {
